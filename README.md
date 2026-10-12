@@ -870,7 +870,7 @@ These features can be added after the core ordering, scheduling, payment, and pi
 
 ---
 
-## 19. Final Project Summary
+## 19. Summary
 
 FlowBites is a smart food ordering and canteen management platform that connects QR-based ordering, digital payments, kitchen capacity, pickup scheduling, preparation tracking, and verified collection.
 
